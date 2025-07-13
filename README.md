@@ -1,10 +1,14 @@
 🌦️WEATHER DETECTION WEB APP
+---
 A sleek and modern weather app built using React, Vite, and the OpenWeatherMap API. Instantly fetch and display real-time weather data for any city with a responsive, user-friendly interface.
 
+---
 ##demo
 ![App Screenshot](images/image.jpg)
 
+---
 🚀 Features
+---
 🌤️ Search by city: Instantly fetch current weather by entering any city name
 
 🌡️ Live data: Temperature, humidity, min/max temperature, and condition description
@@ -17,13 +21,18 @@ A sleek and modern weather app built using React, Vite, and the OpenWeatherMap A
 
 🚦 Robust UX: Graceful loading and error handling
 
+---
+
 🛠️ Getting Started
 ✅ Prerequisites
 Node.js (v16 or higher)
 
 npm or yarn
 
+---
+
 📦 Installation
+---
 Clone the repository:
 
 bash
@@ -69,6 +78,8 @@ npm run dev
 yarn dev
 Visit http://localhost:5173 in your browser.
 
+---
+
 📁 Project Structure
 bash
 Copy
@@ -85,7 +96,10 @@ src/
 ├── App.css              # App styling
 ├── index.css            # Global styles
 ...
+
+--
 🎨 Customization
+---
 Weather Icons
 Replace icons in the assets/ folder
 
